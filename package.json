@@ -10,10 +10,6 @@
         "url": "http://www.smartclient.com/"
     },
     "contributors": [],
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/JSchmidt63/smartclient-rpc.git"
-    },
     "dependencies": {
         "xml2js": "^0.4.17",
         "generic-pool": "https://github.com/Aleksandras-Novikovas/node-pool.git",
