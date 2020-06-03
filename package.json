@@ -1,5 +1,6 @@
 {
     "name": "smartclient-rpc",
+    "private": false,
     "version": "0.0.3",
     "description": "RPC functionality for SmartClient server side implementation",
     "keywords": [],
