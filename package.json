@@ -15,7 +15,7 @@
         "generic-pool": "^3.7.1",
         "knex": "^0.12.7",
         "mysql": "^2.12.0",
-        "pg": "^6.1.4",
+        "pg": "^8.2.1",
         "srv-core": "JSchmidt63/srv-core.git#master",
         "srv-config": "^0.0.1",
         "srv-log": "^0.0.1",
