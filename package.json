@@ -16,7 +16,7 @@
         "knex": "^0.12.7",
         "mysql": "^2.12.0",
         "pg": "^6.1.4",
-        "srv-core": "^0.0.1",
+        "srv-core": "https://github.com/JSchmidt63/srv-core.git",
         "srv-config": "^0.0.1",
         "srv-log": "^0.0.1",
         "srv-server": "^0.0.1",
