@@ -12,11 +12,11 @@
     "contributors": [],
     "repository": {
         "type": "git",
-        "url": "git://github.com/isomorphic-software/smartclient-rpc.git"
+        "url": "https://github.com/isomorphic-software/smartclient-rpc.git"
     },
     "dependencies": {
         "xml2js": "^0.4.17",
-        "generic-pool": "git://github.com/Aleksandras-Novikovas/node-pool.git",
+        "generic-pool": "https://github.com/Aleksandras-Novikovas/node-pool.git",
         "knex": "^0.12.7",
         "mysql": "^2.12.0",
         "pg": "^6.1.4",
