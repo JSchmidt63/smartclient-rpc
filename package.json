@@ -12,7 +12,7 @@
     "contributors": [],
     "repository": {
         "type": "git",
-        "url": "https://github.com/JSchmidt63/smartclient-rpc.git"
+        "url": "git+https://github.com/JSchmidt63/smartclient-rpc.git"
     },
     "dependencies": {
         "xml2js": "^0.4.17",
